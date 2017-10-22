@@ -235,7 +235,7 @@
     <!-- Charging sounds -->
     <SwitchPreference
         android:key="charging_sounds"
-        android:title="@string/charging_sounds_title"
+        android:title="@string/charging_sounds_nos_title"
         android:order="-40"/>
 
     <!-- Docking sounds -->
@@ -257,6 +257,12 @@
         android:summary="@string/vibrate_on_touch_summary"
         settings:keywords="@string/keywords_vibrate_on_touch"
         android:order="-25"/>
+
+    <!-- Charging vibro -->
+    <SwitchPreference
+        android:key="charging_vibro"
+        android:title="@string/charging_vibro_title"
+        android:order="-23"/>
 
     <!-- Dock speaker plays -->
     <DropDownPreference
@@ -281,7 +287,8 @@
     <!-- Screenshot sound -->
     <SwitchPreference
         android:key="screenshot_shutter_sound"
-        android:title="@string/screenshot_shutter_sound_title" />
+        android:title="@string/screenshot_shutter_sound_title"
+        android:order="-28"/>
 
     <com.awaken.support.preferences.SystemSettingSwitchPreference
         android:key="show_app_volume"
