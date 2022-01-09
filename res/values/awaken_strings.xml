@@ -406,10 +406,10 @@
     <string name="lockscreen_battery_info_title">Lockscreen charging info</string>
     <string name="lockscreen_battery_info_summary">Display negociated charger max current and voltage and battery temperature on lockscreen while charging</string>
 
-    <!--  screen, setting option name to change wifi timeout -->
+    <!-- Network preferences screen, setting option name to change wifi timeout -->
     <string name="wifi_timeout">Turn off Wi-Fi automatically</string>
 
-    <!--  screen, setting option summary to change wifi timeout -->
+    <!-- Network preferences screen, setting option summary to change wifi timeout -->
     <string name="wifi_timeout_summary">Wi-Fi will turn off after <xliff:g id="timeout_description">%1$s</xliff:g> if no network connected</string>
     <string name="wifi_timeout_summary2">Disabled</string>
     <string name="wifi_timeout_summary_never">Never</string>
