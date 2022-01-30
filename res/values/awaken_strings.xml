@@ -563,4 +563,8 @@
     <!-- One shot automatic brightness -->
     <string name="auto_brightness_one_shot_title">One shot auto-brightness</string>
     <string name="auto_brightness_one_shot_summary">Brightness adjustment will only occur at the moment the screen is turned on</string>
+
+    <!-- Fingerprint Ripple Effect -->
+    <string name="enable_fingerprint_ripple_effect_title">Ripple effect</string>
+    <string name="enable_fingerprint_ripple_effect_summary">Show ripple effect on unlock with fingerprint</string>
 </resources>
