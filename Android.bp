@@ -78,6 +78,7 @@ android_library {
         "VendorSupport-preference",
         "gamemode-settingsgoogle",
         "columbus-settingsgoogle",
+        "faceunlock_framework",
     ],
 
     libs: [
