@@ -493,7 +493,7 @@
     <string name="connected_tws_device_saved_title">Saved Earbuds</string>
 
     <!-- Adaptive Playback -->
-    <string name="adaptive_playback_screen_title">Adaptive playback</string>
+    <string name="adaptive_playback_screen_title">Adaptive Playback</string>
     <string name="adaptive_playback_enabled">Use adaptive playback</string>
     <string name="adaptive_playback_disabled_summary">Off</string>
     <string name="adaptive_playback_timeout_title">Use a timeout of</string>
